@@ -90,11 +90,17 @@ The complete notebook for this task is available in this repository:
 Through this task, I learned:
 
 Python syntax and structure
+
 Working with multiple data types
+
 Using loops for iteration
+
 Managing information with dictionaries
+
 Creating reusable functions
+
 Building simple interactive Python applications
+
 Organizing project documentation using GitHub
 
 # Conclusion
