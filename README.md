@@ -24,6 +24,7 @@
 
 <img width="310" height="63" alt="Simple Command Line Assistant" src="https://github.com/user-attachments/assets/44baf2b7-8354-4a74-a5a4-ae1ca6c71982" />
 
-# colab notebook
+## Google Colab Notebook
 
+[Open Notebook](colab notebook file.ipynb)
 
